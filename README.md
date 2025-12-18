@@ -1,5 +1,7 @@
 # CS101 Final Exam: C++ Programming Implementation
 
+![CS101 Final Exam](https://hhassan1230.github.io/CodePenImgs/imagesLesson1/MAC101finalimage2.png)
+
 ## 📂 Project Structure
 
 This exam is split into two files to help you focus on one core concept at a time.
